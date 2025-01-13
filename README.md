@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate: Take a look at my project
-- 📫 Reach me through insta: "@_juss_mj_"
+- 📫 Reach me through insta: _juss_mj_
 - 😄 Pronouns: who/cares
 - ⚡ Fun fact: I'm no fun
 
